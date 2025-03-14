@@ -5,6 +5,6 @@ nav_order: 3
 permalink: /ass-02/
 ---
 
-# 과제-02 단문 연습 제출물
+# 과제-02 단문 연습 제출물 > COMMENT
 
 * 참고: [단문 연습 과제-02 설명](https://deepwrite.github.io/2025SPRING/assignments/asmt-01/)
