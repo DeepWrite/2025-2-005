@@ -1,7 +1,7 @@
 ﻿---
 title: 006-06 장제성의 코멘트b (과제-01) 
 layout: home
-nav_order: 06
+nav_order: 6
 parent: 006-15 김서진 (과제-01)
 permalink: /asmt-01/006-15/comment-006-06
 ---
