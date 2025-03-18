@@ -3,7 +3,7 @@ title: 006-06 장제성의 코멘트a (과제-01)
 layout: home
 nav_order: 06
 parent: 006-10 박건우 (과제-01)
-permalink: /asmt-01/006-31/comment-006-06
+permalink: /asmt-01/006-10/comment-006-06
 ---
 
 # 과제-01 요약 연습에 대한 코멘트
