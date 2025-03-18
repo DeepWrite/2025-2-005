@@ -2,7 +2,7 @@
 title: 006-04 박현규의 코멘트b (과제-01) 
 layout: home
 nav_order: 04
-parent: 015-13 박승열 (과제-01)
+parent: 006-13 박승열 (과제-01)
 permalink: /asmt-01/006-13/comment-006-04
 ---
 
