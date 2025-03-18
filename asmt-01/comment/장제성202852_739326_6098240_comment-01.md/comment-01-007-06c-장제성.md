@@ -1,4 +1,4 @@
-﻿---
+---
 title: 006-06 장제성의 코멘트c (과제-01) 
 layout: home
 nav_order: 6
