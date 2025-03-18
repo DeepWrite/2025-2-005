@@ -1,7 +1,7 @@
 ---
 title: 006-18 김범진의 코멘트a (과제-01) 
 layout: home
-nav_order: 33
+nav_order: 18
 parent: 006-04 박현규 (과제-01)
 permalink: /asmt-01/006-04/comment-006-18
 ---
