@@ -1,7 +1,7 @@
 ---
 title: 006-09 김건우의 코멘트b (과제-01) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 006-18 김범진 (과제-01)
 permalink: /asmt-01/006-18/comment-006-09
 ---

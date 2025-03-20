@@ -1,7 +1,7 @@
 ---
 title: 006-08 권혁규의 코멘트b (과제-01) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 006-17 심규승 (과제-01)
 permalink: /asmt-01/006-17/comment-006-08
 ---
