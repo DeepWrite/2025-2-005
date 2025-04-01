@@ -3,7 +3,7 @@ title: 006-01 황진욱의 코멘트c (과제-03)
 layout: home
 nav_order: 1
 parent: 006-15 김서진 (과제-03)
-permalink: /asmt-03/006-01/comment-006-15
+permalink: /asmt-03/006-15/comment-006-01
 ---
 
 # 과제-03 쟁점과 딜레마 분석에 대한 코멘트
