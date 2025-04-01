@@ -2,7 +2,7 @@
 title: 006-21 김민서의 코멘트c (과제-03) 
 layout: home
 nav_order: 21
-parent: 006-08 민소연 (과제-03)
+parent: 006-12 민소연 (과제-03)
 permalink: /asmt-03/006-12/comment-006-21
 ---
 

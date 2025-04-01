@@ -2,7 +2,7 @@
 title: 006-05 김태연의 코멘트c (과제-03) 
 layout: home
 nav_order: 05
-parent: 006-05 김태연 (과제-03)
+parent: 006-19 김유민 (과제-03)
 permalink: /asmt-03/006-19/comment-006-05
 ---
 
