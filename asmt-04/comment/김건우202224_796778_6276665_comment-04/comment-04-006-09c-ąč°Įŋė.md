@@ -1,7 +1,7 @@
 ---
 title: 006-09 김건우의 코멘트c (과제-04) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 006-13 박승열 (과제-04)
 permalink: /asmt-04/006-13/comment-006-09
 ---

@@ -1,7 +1,7 @@
 ---
 title: 015-33 홍길동의 코멘트c (과제-02) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 006-23 정태영 (과제-02)
 permalink: /asmt-02/006-23/comment-006-09
 ---

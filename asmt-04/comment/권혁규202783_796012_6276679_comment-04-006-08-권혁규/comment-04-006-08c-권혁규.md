@@ -1,7 +1,7 @@
 ---
 title: 006-08 권혁규의 코멘트c (과제-04) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 006-03 김성민 (과제-04)
 permalink: /asmt-04/006-03/comment-006-08
 ---

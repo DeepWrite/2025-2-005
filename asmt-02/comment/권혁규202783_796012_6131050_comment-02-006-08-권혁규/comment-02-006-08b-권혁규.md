@@ -1,7 +1,7 @@
 ---
 title: 006-08 권혁규의 코멘트b (과제-02) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 006-25 박동현 (과제-02)
 permalink: /asmt-02/006-25/comment-006-08
 ---
