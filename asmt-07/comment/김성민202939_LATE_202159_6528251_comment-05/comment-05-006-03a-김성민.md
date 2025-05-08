@@ -1,8 +1,10 @@
-## title: 006-03 김성민의 코멘트a (과제-07)
+---
+title: 006-03 김성민의 코멘트a (과제-07)
 layout: home
 nav_order: 03
 parent: 006-02 김재겸 (과제-07)
 permalink: /asmt-07/006-02/comment-006-03
+---
 
 # 과제-07 개인별 논증 구조 작성하기
 
