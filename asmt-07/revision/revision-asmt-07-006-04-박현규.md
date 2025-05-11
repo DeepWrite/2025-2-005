@@ -2,7 +2,7 @@
 title: (개선) 과제-07 개인별 논증 구조 작성하기 006-04 박현규
 layout: home
 nav_order: 99
-parent: 006-04 (과제-07)
+parent: 006-04 박현규 (과제-07)
 permalink: /asmt-07/006-04/revision
 ---
 
