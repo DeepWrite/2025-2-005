@@ -1,7 +1,7 @@
 ---
 title: 006-09 김건우의 코멘트a (과제-07) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 006-22 김동희 (과제-07)
 permalink: /asmt-07/006-22/comment-006-09
 ---
