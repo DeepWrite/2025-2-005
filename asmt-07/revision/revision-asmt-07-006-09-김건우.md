@@ -1,9 +1,9 @@
 ---
 title: (개선) 과제-07 개인별 논증 구조 작성하기 006-09 김건우
 layout: home
-nav_order: 99
+nav_order: 98
 parent: 006-09 김건우 (과제-07)
-permalink: /asmt-07/006-09/revision
+permalink: /asmt-07/006-09/revision-2
 ---
 
 # (개선) 과제-07 개인별 논증 구조 작성하기 006-09 김건우 
