@@ -1,7 +1,7 @@
 ---
 title: 006-05 김태연의 코멘트b (과제-08) 
 layout: home
-nav_order: 33
+nav_order: 05
 parent: 006-01 황진욱 (과제-08)
 permalink: /asmt-08/006-01/comment-006-05
 ---
