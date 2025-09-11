@@ -1,9 +1,9 @@
 ---
-title: (개선) 과제-04 5-6단락 논증에세이 006-23 정태영
+title: (개선) 과제-04 5-6단락 논증에세이 005-23 정태영
 layout: home
 nav_order: 99
-parent: 006-23 정태영 (과제-04)
-permalink: /asmt-04/006-23/revision
+parent: 005-23 정태영 (과제-04)
+permalink: /asmt-04/005-23/revision
 ---
 
 # (개선) 과제-04 5-6단락 논증에세이 015-33 홍길동 

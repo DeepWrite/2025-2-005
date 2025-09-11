@@ -1,9 +1,9 @@
 ---
-title: 006-02 김재겸의 코멘트b (과제-04) 
+title: 005-02 김재겸의 코멘트b (과제-04) 
 layout: home
 nav_order: 02
-parent: 006-16 정현호 (과제-04)
-permalink: /asmt-04/006-16/comment-006-02
+parent: 005-16 정현호 (과제-04)
+permalink: /asmt-04/005-16/comment-005-02
 ---
 
 # 과제-04 5-6단락 논증에세이에 대한 코멘트
