@@ -3,7 +3,7 @@ title: 005-12 조정욱의 코멘트a (과제-01)
 layout: home
 nav_order: 12
 parent: 005-16 오서연 (과제-01)
-permalink: /asmt-01/005-12/comment-005-16
+permalink: /asmt-01/005-16/comment-005-12
 ---
 
 # 과제-01 요약 연습에 대한 코멘트
