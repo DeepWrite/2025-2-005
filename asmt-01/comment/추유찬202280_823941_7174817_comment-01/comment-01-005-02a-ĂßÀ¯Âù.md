@@ -1,8 +1,8 @@
 ---
 title: 005-02 추유찬의 코멘트a (과제-01) 
 layout: home
-nav_order: 33
-parent: 005-06 추유찬 (과제-01)
+nav_order: 02
+parent: 005-06 김태원 (과제-01)
 permalink: /asmt-01/005-02/comment-005-06
 ---
 

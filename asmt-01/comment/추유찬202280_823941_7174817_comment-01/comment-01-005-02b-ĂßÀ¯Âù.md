@@ -1,9 +1,9 @@
 ---
 title: 005-02 추유찬의 코멘트b (과제-01) 
 layout: home
-nav_order: 33
-parent: 005-06 추유찬 (과제-01)
-permalink: /asmt-01/005-02/comment-005-010
+nav_order: 02
+parent: 005-10 김채영 (과제-01)
+permalink: /asmt-01/005-02/comment-005-10
 ---
 
 # 과제-01 요약 연습에 대한 코멘트

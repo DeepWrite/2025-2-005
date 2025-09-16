@@ -1,7 +1,7 @@
 ---
 title: 005-16 오서연의 코멘트a (과제-01) 
 layout: home
-nav_order:16
+nav_order: 16
 parent: 005-04 김범수 (과제-01)
 permalink: /asmt-01/005-04/comment-005-16
 ---
