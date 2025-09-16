@@ -3,7 +3,7 @@ title: 005-15 최유민의 코멘트c (과제-01)
 layout: home
 nav_order: 15
 parent: 005-23 고보민 (과제-01)
-permalink: /asmt-01/005-19/comment-005-15
+permalink: /asmt-01/005-23/comment-005-15
 ---
 
 # 과제-01 요약 연습에 대한 코멘트
