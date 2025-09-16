@@ -2,7 +2,7 @@
 title: 005-11 오유민의 코멘트a (과제-01) 
 layout: home
 nav_order: 11
-parent: 005-15 최유민민 (과제-01)
+parent: 005-15 최유민 (과제-01)
 permalink: /asmt-01/005-15/comment-005-11
 ---
 

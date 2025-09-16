@@ -1,7 +1,7 @@
 ---
 title: 005-09 양희진의 코멘트b (과제-01) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 005-17 이서아 (과제-01)
 permalink: /asmt-01/005-17/comment-005-09
 ---

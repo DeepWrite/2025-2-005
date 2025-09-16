@@ -1,7 +1,7 @@
 ---
 title: 005-09 양희진의 코멘트c (과제-01) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 005-21 한도현 (과제-01)
 permalink: /asmt-01/005-21/comment-005-09
 ---

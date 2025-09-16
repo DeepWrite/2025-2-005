@@ -1,7 +1,7 @@
 ---
 title: 005-07 김태연의 코멘트c (과제-01) 
 layout: home
-nav_order: 07
+nav_order: 7
 parent: 005-19 양서진 (과제-01)
 permalink: /asmt-01/005-19/comment-005-07
 ---
