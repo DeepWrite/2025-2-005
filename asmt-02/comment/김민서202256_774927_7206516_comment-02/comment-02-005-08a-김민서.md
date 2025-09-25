@@ -1,7 +1,7 @@
 ---
 title: 005-08 김민서의 코멘트a (과제-02) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 005-24 권예빈 (과제-02)
 permalink: /asmt-02/005-24/comment-005-08
 ---
