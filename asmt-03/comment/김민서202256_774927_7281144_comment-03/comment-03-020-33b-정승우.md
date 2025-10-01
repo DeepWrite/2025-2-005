@@ -1,7 +1,7 @@
 ---
 title: 005-08 김민서의 코멘트b (과제-03) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 005-20 정승우 (과제-03)
 permalink: /asmt-03/005-20/comment-005-08
 ---

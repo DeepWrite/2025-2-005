@@ -1,7 +1,7 @@
 ---
 title: 005-08 김민서의 코멘트a (과제-03) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 005-16 오서연 (과제-03)
 permalink: /asmt-03/005-16/comment-005-08
 ---
