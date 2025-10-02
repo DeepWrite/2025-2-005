@@ -2,7 +2,7 @@
 title: 005-03 김지안의 코멘트a (과제-03) 
 layout: home
 nav_order: 03
-parent: 05-11 오유민 (과제-03)
+parent: 005-11 오유민 (과제-03)
 permalink: /asmt-03/005-11/comment-005-03
 ---
 
