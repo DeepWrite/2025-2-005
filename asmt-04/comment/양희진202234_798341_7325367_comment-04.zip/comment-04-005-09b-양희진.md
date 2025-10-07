@@ -1,7 +1,7 @@
 ---
 title: 005-09 양희진의 코멘트b (과제-04) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 005-05 김민성 (과제-04)
 permalink: /asmt-04/005-09/comment-005-05
 ---

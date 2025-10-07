@@ -1,7 +1,7 @@
 ---
 title: 005-08 김민서의 코멘트a (과제-04) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 005-04 김범수 (과제-04)
 permalink: /asmt-04/005-04/comment-005-08
 ---
