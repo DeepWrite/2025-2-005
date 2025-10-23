@@ -1,7 +1,7 @@
 ---
 title: 005-07 김태연의 코멘트b (과제-04) 
 layout: home
-nav_order: 07
+nav_order: 7
 parent: 005-11 오유민 (과제-04)
 permalink: /asmt-04/005-11/comment-005-07
 ---
