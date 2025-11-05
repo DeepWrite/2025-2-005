@@ -14,6 +14,8 @@ permalink: /asmt-07/005-22/revision
 
 또한, 전제1에서 나온 지적인 ‘사회 전체의 생산물 극대화’가 경제적 효율성인지, 문화적 다양성인지 명확하지 않다는 점을 반영하고자 기본적 전제를 경제적 효율성으로 설정하되, 문화적 다양성이 곧 경제적 효율성을 이루어낼 수 있다는 내용을 첨가하여 이를 포괄하였다.
 
+더 나아가, 전제의 실증적 사례와 계량적 근거가 필요하다는 지적을 반영하여 골드만삭스, 맥킨지 등의 경제 보고서를 인용하여 AI가 GDP 증대 및 이외 경제 효과를 창출할 수 있다는 것과, 실제로 이를 사용한 사례에 대한 설문 데이터를 추가, 계량적 근거를 통해 논증을 강화하고자 하였다.
+
 ## 제목: AI 창작물의 시대, 저작권 문제의 방향은 어디로 가야 하는가
 
 ## 1. 쟁점과 딜레마
@@ -62,6 +64,8 @@ permalink: /asmt-07/005-22/revision
     - 또한 AI를 활용한 콘텐츠의 저작권 인정은 전문 기술을 가지지 않은 사람들이 AI를 활용해 단순한 아이디어만으로도 다양하고 수준 높은 콘텐츠를 생산할 수 있는 유인을 제공하므로 콘텐츠 제작에 대한 접근성을 높이고 전체적인 창작 인센티브를 증대시킬 수 있다. (이를 ‘창작의 민주화’로 표현할 것임)
     - 야나두의 영어 교육 콘텐츠, 스트리트 캐츠 파이터 등의 콘텐츠는 AI를 활용한 새로운 형태의 장르를 창작하였으며, 과거의 광고 형식을 모방한 AI 영상 콘텐츠는 레트로라는 기존 유행의 물결을 확장하고 있다. 이처럼 창작의 민주화는 새로운 장르의 발견과 유행의 확장을 촉진시켜 전체적인 저작물의 다양성을 재고, 창작 인센티브를 증대할 수 있다.
     - 더 나아가 모든 창의성은 본질적으로 알고리즘적이며, AI 생성 작품은 인간 작품과 유사하므로 저작권으로 보호하는 것이 기존 체계와 부합하고 창작을 장려할 수 있다 (Bridy).
+    - **Goldman Sachs**에서는 2023년 리포트에서 생성형 AI가 향후 10년간 전 세계 GDP를 **7%** 증가시키고, 연간 노동 생산성을 **1.5%p** 향상시킬 수 있다고 예측하였다. 비슷한 맥락에서 **McKinsey**는 2023년 리포트에서 생성형 AI가 매년 **2.6조~4.4조 달러**의 경제적 가치를 창출할 수 있다는 분석을 내놓았다.
+    - Adobe의 2024년 Creativity Report에 따르면, AI를 사용하는 Adobe 서비스 사용자의 **83%가 생산성 향상을 경험**했으며, 82%의 창작자가 계속해서 그 서비스를 사용할 것임을, 그 중 74%가 그러한 서비스가 **자신의 작업에 더 큰 효율성을 주고 있다고 응답**하였다.
   - **전제3:** 저작권을 AI 서비스 이용자에게 부여하는 것은 창작 인센티브를 증대시킨다.
       - 여러 후보 중 사용자에게 권리를 할당하는 것이 창작 인센티브의 관점에서 가장 합리적이며, 전통적인 저작권 원칙 및 정책과 가장 잘 부합한다 (Samuelson).
       - 사용자는 AI 프로그램을 구매하거나 라이선스를 획득함으로써 이미 비용을 지불했으며, 프로그램의 의도된 목적인 창작 활동을 통해 결과물을 얻는 것에 대한 권리를 가질 정당한 기대가 있다 (Samuelson).
@@ -84,3 +88,6 @@ permalink: /asmt-07/005-22/revision
 - Landes, W. M., & Posner, R. A. (1989). An Economic Analysis of Copyright Law. _The Journal of Legal Studies_, _18_(2), 325–363.
 - Saw, C. L., & Lim, D. (2024, October). _The Case For AI Authorship In Copyright Law
 - Samuelson, P. (1986, August). Allocating Ownership Rights in Computer-Generated Works. In _Symposium Cosponsored by University of Pittsburgh Law Review and The Software En on The Future of Software Protection_ (pp. 1185–1228). University of Pittsburgh Press.
+- Hatzius, J., et al. (2023, April 5). _The Potentially Large Effects of Artificial Intelligence on Economic Growth_. Goldman Sachs Economics Research.
+- Chui, M., et al. (2023, June 14). _The economic potential of generative AI: The next productivity frontier_. McKinsey Global Institute.
+- Adobe (2024). *Adobe State of Creativity Report 2024.*
