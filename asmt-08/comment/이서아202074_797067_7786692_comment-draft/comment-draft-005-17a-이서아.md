@@ -3,7 +3,7 @@ title: 005-17 이서아의 코멘트a (과제-08)
 layout: home
 nav_order: 17
 parent: 005-05 김민성 (과제-08)
-permalink: /asmt-08/005-17/comment-005-05
+permalink: /asmt-08/005-05/comment-005-17
 ---
 
 # 과제-08 기말과제 초고 작성하기
